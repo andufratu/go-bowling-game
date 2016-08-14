@@ -1,4 +1,4 @@
-package go_bowling_game
+package bowling_game
 
 import (
 	"testing"
