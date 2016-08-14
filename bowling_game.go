@@ -2,7 +2,7 @@ package go_bowling_game
 
 type BowlingGame struct {
 	CurrentRoll int
-	Rolls [21]int
+	Rolls [20]int
 }
 
 func (game *BowlingGame) Roll(pins int) {
